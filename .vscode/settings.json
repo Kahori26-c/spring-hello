@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "hello/src/main/java/com/example/hello/controller",
+    "demo/src/main/java/com/example/demo/controller",
+    "demo/src/main/java/com/example/demo",
+    "hello/src/main/java/com/example/hello"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
